@@ -1,15 +1,13 @@
-    # indentifer.........................name
-# x =10
-# xyz=10
+#     indentifer.........................name
+x =10
+xyz=10
 
 # 5=10
 # 1xyz=10
 
 # start with _ or a-z or A-Z _underscore
 
-# xyz=10
-# _x=10
-# _xyz=10
+
 
 # case sensitive
 # x=10
@@ -66,7 +64,7 @@
 # print(x>=y)
 # print(x<=y)
   
-#   output-False
+#  output-False
 # True
 # False
 # True
@@ -102,9 +100,8 @@
 
 # x=10
 # y=20
-# z=30
+# z=30git
 # print(not(x<y or y<z))
 # print(not(x<y or y>z))
 
-# False
 # False
